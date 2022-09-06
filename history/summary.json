@@ -1,20 +1,20 @@
 [
   {
-    "name": "Home",
+    "name": "Strapi Home Page",
     "url": "https://preprod-content.wavemoney.io",
     "icon": "https://favicons.githubusercontent.com/preprod-content.wavemoney.io",
-    "slug": "home",
+    "slug": "strapi-home-page",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 670,
-    "timeWeek": 670,
-    "timeMonth": 670,
-    "timeYear": 670,
+    "time": 711,
+    "timeDay": 711,
+    "timeWeek": 711,
+    "timeMonth": 711,
+    "timeYear": 711,
     "dailyMinutesDown": {}
   }
 ]
