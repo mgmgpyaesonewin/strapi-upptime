@@ -1,7 +1,7 @@
 url: https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-home
-status: down
-code: 502
-responseTime: 221
-lastUpdated: 2022-09-06T10:45:39.704Z
+status: up
+code: 200
+responseTime: 230
+lastUpdated: 2022-09-06T10:54:32.716Z
 startTime: Tue Sep 06 2022 10:34:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
