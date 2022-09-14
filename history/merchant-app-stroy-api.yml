@@ -1,7 +1,7 @@
 url: https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-tutorial-stories/1
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-09-14T17:34:06.800Z
+code: 503
+responseTime: 171
+lastUpdated: 2022-09-14T23:09:41.254Z
 startTime: Tue Sep 06 2022 10:34:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
