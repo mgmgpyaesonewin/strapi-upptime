@@ -22,10 +22,10 @@
     "url": "https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-core-config",
     "icon": "https://favicons.githubusercontent.com/preprod-apim-gw.wavemoney.io",
     "slug": "merchant-app-core-config-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 776,
@@ -33,16 +33,18 @@
     "timeWeek": 759,
     "timeMonth": 776,
     "timeYear": 776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 1
+    }
   },
   {
     "name": "Merchant APP (API Version API)",
     "url": "https://preprod-apim-gw.wavemoney.io/v2/merchant-api/url-version/entity/merchant",
     "icon": "https://favicons.githubusercontent.com/preprod-apim-gw.wavemoney.io",
     "slug": "merchant-app-api-version-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +53,18 @@
     "timeWeek": 202,
     "timeMonth": 211,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   },
   {
     "name": "Merchant APP (HomePage API)",
     "url": "https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-home",
     "icon": "https://favicons.githubusercontent.com/preprod-apim-gw.wavemoney.io",
     "slug": "merchant-app-home-page-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +73,18 @@
     "timeWeek": 213,
     "timeMonth": 218,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   },
   {
     "name": "Merchant APP (Terms & Conditions API)",
     "url": "https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-term-and-condition-content/get-latest",
     "icon": "https://favicons.githubusercontent.com/preprod-apim-gw.wavemoney.io",
     "slug": "merchant-app-terms-and-conditions-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +93,18 @@
     "timeWeek": 838,
     "timeMonth": 770,
     "timeYear": 770,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   },
   {
     "name": "Merchant APP (Stroy API)",
     "url": "https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-tutorial-stories/1",
     "icon": "https://favicons.githubusercontent.com/preprod-apim-gw.wavemoney.io",
     "slug": "merchant-app-stroy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +113,8 @@
     "timeWeek": 227,
     "timeMonth": 228,
     "timeYear": 228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   }
 ]
