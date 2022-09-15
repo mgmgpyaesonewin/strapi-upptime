@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 544,
-    "timeWeek": 603,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "time": 620,
+    "timeDay": 571,
+    "timeWeek": 607,
+    "timeMonth": 620,
+    "timeYear": 620,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/preprod-apim-gw.wavemoney.io",
     "slug": "merchant-app-core-config-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 702,
-    "timeWeek": 759,
-    "timeMonth": 776,
-    "timeYear": 776,
+    "uptime": "96.41%",
+    "uptimeDay": "69.08%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "96.41%",
+    "time": 773,
+    "timeDay": 744,
+    "timeWeek": 766,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {
-      "2022-09-14": 1
+      "2022-09-15": 59,
+      "2022-09-14": 386
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/preprod-apim-gw.wavemoney.io",
     "slug": "merchant-app-api-version-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 189,
-    "timeWeek": 202,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "uptime": "96.41%",
+    "uptimeDay": "69.08%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "96.41%",
+    "time": 208,
+    "timeDay": 171,
+    "timeWeek": 199,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2022-09-14": 0
+      "2022-09-15": 59,
+      "2022-09-14": 386
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/preprod-apim-gw.wavemoney.io",
     "slug": "merchant-app-home-page-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 206,
-    "timeWeek": 213,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "uptime": "96.41%",
+    "uptimeDay": "69.09%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "96.41%",
+    "time": 214,
+    "timeDay": 172,
+    "timeWeek": 209,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2022-09-14": 0
+      "2022-09-15": 59,
+      "2022-09-14": 386
     }
   },
   {
@@ -83,18 +86,19 @@
     "icon": "https://favicons.githubusercontent.com/preprod-apim-gw.wavemoney.io",
     "slug": "merchant-app-terms-and-conditions-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 531,
-    "timeWeek": 838,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "uptime": "96.41%",
+    "uptimeDay": "69.10%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "96.41%",
+    "time": 720,
+    "timeDay": 171,
+    "timeWeek": 786,
+    "timeMonth": 720,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2022-09-14": 0
+      "2022-09-15": 59,
+      "2022-09-14": 386
     }
   },
   {
@@ -103,18 +107,19 @@
     "icon": "https://favicons.githubusercontent.com/preprod-apim-gw.wavemoney.io",
     "slug": "merchant-app-stroy-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 217,
-    "timeWeek": 227,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "uptime": "96.41%",
+    "uptimeDay": "69.11%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "96.41%",
+    "time": 223,
+    "timeDay": 171,
+    "timeWeek": 221,
+    "timeMonth": 223,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2022-09-14": 0
+      "2022-09-15": 59,
+      "2022-09-14": 386
     }
   }
 ]
