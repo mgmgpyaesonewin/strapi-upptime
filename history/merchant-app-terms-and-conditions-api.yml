@@ -1,7 +1,7 @@
 url: https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-term-and-condition-content/get-latest
 status: up
 code: 200
-responseTime: 694
-lastUpdated: 2022-10-20T23:13:09.761Z
+responseTime: 714
+lastUpdated: 2022-10-21T23:11:26.429Z
 startTime: Tue Sep 06 2022 10:34:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
