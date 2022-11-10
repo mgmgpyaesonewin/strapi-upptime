@@ -4,17 +4,17 @@ repo: strapi-upptime # The name of this repository
 
 sites:
   - name: Strapi Home Page
-    url: https://preprod-content.wavemoney.io
+    url: https://cms.wavemoney.io
   - name: Merchant APP (Core Config API)
-    url: https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-core-config
+    url: https://cms.wavemoney.io/v2/merchant-api/merchant-core-config
   - name: Merchant APP (API Version API)
-    url: https://preprod-apim-gw.wavemoney.io/v2/merchant-api/url-version/entity/merchant
+    url: https://cms.wavemoney.io/v2/merchant-api/url-version/entity/merchant
   - name: Merchant APP (HomePage API)
-    url: https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-home
+    url: https://cms.wavemoney.io/v2/merchant-api/merchant-home
   - name: Merchant APP (Terms & Conditions API)
-    url: https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-term-and-condition-content/get-latest
+    url: https://cms.wavemoney.io/v2/merchant-api/merchant-term-and-condition-content/get-latest
   - name: Merchant APP (Stroy API)
-    url: https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-tutorial-stories/1
+    url: https://cms.wavemoney.io/v2/merchant-api/merchant-tutorial-stories/1
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
