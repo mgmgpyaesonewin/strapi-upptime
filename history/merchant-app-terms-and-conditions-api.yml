@@ -1,7 +1,7 @@
-url: https://preprod-apim-gw.wavemoney.io/v2/merchant-api/merchant-term-and-condition-content/get-latest
-status: up
-code: 200
-responseTime: 601
-lastUpdated: 2022-11-09T23:08:58.340Z
+url: https://cms.wavemoney.io/v2/merchant-api/merchant-term-and-condition-content/get-latest
+status: down
+code: 404
+responseTime: 217
+lastUpdated: 2022-11-10T07:54:44.932Z
 startTime: Tue Sep 06 2022 10:34:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
