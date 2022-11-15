@@ -15,6 +15,8 @@ sites:
     url: https://gateway.wavemoney.io/v2/merchant-api/merchant-term-and-condition-content/get-latest
   - name: Merchant APP (Stroy API)
     url: https://gateway.wavemoney.io/v2/merchant-api/merchant-tutorial-stories/1
+  - name: Channel APP (NRC API)
+    url: https://gateway.wavemoney.io/v2/wc-api/config-nrc/wc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
