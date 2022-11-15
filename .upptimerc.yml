@@ -17,6 +17,10 @@ sites:
     url: https://gateway.wavemoney.io/v2/merchant-api/merchant-tutorial-stories/1
   - name: Channel APP (NRC API)
     url: https://gateway.wavemoney.io/v2/wc-api/config-nrc/wc
+  - name: Channel APP (Region API)
+    url: https://gateway.wavemoney.io/v2/wc-api/config-region/wc
+  - name: Channel APP (Version API)
+    url: https://gateway.wavemoney.io/v2/wc-api/url-version/entity/wc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
