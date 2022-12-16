@@ -259,19 +259,19 @@
     "url": "https://gateway.wavemoney.io/v2/wp-api/wp-mini-app-categories",
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "wave-pay-app-mini-app-api",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 271,
-    "timeDay": 271,
-    "timeWeek": 271,
-    "timeMonth": 271,
-    "timeYear": 271,
+    "status": "up",
+    "uptime": "66.19%",
+    "uptimeDay": "66.19%",
+    "uptimeWeek": "66.19%",
+    "uptimeMonth": "66.19%",
+    "uptimeYear": "66.19%",
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2022-12-16": 0
+      "2022-12-16": 30
     }
   }
 ]
