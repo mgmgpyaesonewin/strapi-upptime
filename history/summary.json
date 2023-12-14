@@ -6,14 +6,14 @@
     "slug": "strapi-home-page",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "84.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "98.28%",
     "time": 748,
-    "timeDay": 550,
-    "timeWeek": 665,
-    "timeMonth": 781,
+    "timeDay": 737,
+    "timeWeek": 669,
+    "timeMonth": 780,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2023-12-12": 226,
@@ -74,8 +74,7 @@
       "2023-01-09": 281,
       "2023-01-03": 64,
       "2022-12-20": 90,
-      "2022-12-15": 16,
-      "2022-12-14": 18
+      "2022-12-15": 16
     }
   },
   {
@@ -84,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "merchant-app-core-config-api",
     "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "84.34%",
+    "uptime": "98.23%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "98.05%",
-    "time": 863,
-    "timeDay": 742,
-    "timeWeek": 772,
-    "timeMonth": 927,
+    "time": 862,
+    "timeDay": 771,
+    "timeWeek": 779,
+    "timeMonth": 928,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2023-12-12": 226,
@@ -157,8 +156,7 @@
       "2023-01-09": 281,
       "2023-01-03": 64,
       "2022-12-20": 90,
-      "2022-12-15": 16,
-      "2022-12-14": 18
+      "2022-12-15": 16
     }
   },
   {
@@ -167,14 +165,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "merchant-app-api-version-api",
     "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "84.34%",
+    "uptime": "98.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "98.06%",
     "time": 284,
-    "timeDay": 199,
-    "timeWeek": 242,
+    "timeDay": 238,
+    "timeWeek": 243,
     "timeMonth": 276,
     "timeYear": 295,
     "dailyMinutesDown": {
@@ -239,8 +237,7 @@
       "2023-01-09": 281,
       "2023-01-03": 64,
       "2022-12-20": 90,
-      "2022-12-15": 16,
-      "2022-12-14": 18
+      "2022-12-15": 16
     }
   },
   {
@@ -249,15 +246,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "merchant-app-home-page-api",
     "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "84.34%",
+    "uptime": "98.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "98.06%",
     "time": 321,
-    "timeDay": 205,
+    "timeDay": 229,
     "timeWeek": 249,
-    "timeMonth": 637,
+    "timeMonth": 636,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2023-12-12": 226,
@@ -321,8 +318,7 @@
       "2023-01-09": 281,
       "2023-01-03": 64,
       "2022-12-20": 90,
-      "2022-12-15": 16,
-      "2022-12-14": 18
+      "2022-12-15": 16
     }
   },
   {
@@ -331,16 +327,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "merchant-app-terms-and-conditions-api",
     "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "84.33%",
+    "uptime": "98.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "98.06%",
     "time": 485,
-    "timeDay": 348,
+    "timeDay": 399,
     "timeWeek": 431,
     "timeMonth": 693,
-    "timeYear": 465,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2023-12-12": 226,
       "2023-11-22": 263,
@@ -404,8 +400,7 @@
       "2023-01-09": 281,
       "2023-01-03": 64,
       "2022-12-20": 90,
-      "2022-12-15": 16,
-      "2022-12-14": 18
+      "2022-12-15": 16
     }
   },
   {
@@ -415,15 +410,15 @@
     "slug": "merchant-app-stroy-api",
     "status": "up",
     "uptime": "98.23%",
-    "uptimeDay": "84.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "98.06%",
     "time": 304,
-    "timeDay": 218,
-    "timeWeek": 262,
-    "timeMonth": 260,
-    "timeYear": 314,
+    "timeDay": 234,
+    "timeWeek": 260,
+    "timeMonth": 259,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2023-12-12": 226,
       "2023-11-22": 271,
@@ -488,8 +483,7 @@
       "2023-01-09": 281,
       "2023-01-03": 64,
       "2022-12-20": 90,
-      "2022-12-15": 16,
-      "2022-12-14": 18
+      "2022-12-15": 16
     }
   },
   {
@@ -499,14 +493,14 @@
     "slug": "channel-app-nrc-api",
     "status": "up",
     "uptime": "98.04%",
-    "uptimeDay": "84.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "98.04%",
     "time": 271,
-    "timeDay": 205,
-    "timeWeek": 242,
-    "timeMonth": 255,
+    "timeDay": 223,
+    "timeWeek": 243,
+    "timeMonth": 254,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2023-12-12": 226,
@@ -572,8 +566,7 @@
       "2023-01-09": 281,
       "2023-01-03": 64,
       "2022-12-20": 90,
-      "2022-12-15": 16,
-      "2022-12-14": 19
+      "2022-12-15": 16
     }
   },
   {
@@ -583,14 +576,14 @@
     "slug": "channel-app-region-api",
     "status": "up",
     "uptime": "98.04%",
-    "uptimeDay": "84.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "98.05%",
     "time": 319,
-    "timeDay": 227,
-    "timeWeek": 428,
-    "timeMonth": 497,
+    "timeDay": 265,
+    "timeWeek": 427,
+    "timeMonth": 496,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2023-12-12": 226,
@@ -654,8 +647,7 @@
       "2023-01-09": 281,
       "2023-01-03": 64,
       "2022-12-20": 90,
-      "2022-12-15": 16,
-      "2022-12-14": 19
+      "2022-12-15": 16
     }
   },
   {
@@ -665,14 +657,14 @@
     "slug": "channel-app-version-api",
     "status": "up",
     "uptime": "98.04%",
-    "uptimeDay": "84.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "98.05%",
     "time": 275,
-    "timeDay": 198,
-    "timeWeek": 245,
-    "timeMonth": 255,
+    "timeDay": 217,
+    "timeWeek": 243,
+    "timeMonth": 254,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2023-12-12": 226,
@@ -737,8 +729,7 @@
       "2023-01-09": 281,
       "2023-01-03": 64,
       "2022-12-20": 90,
-      "2022-12-15": 32,
-      "2022-12-14": 19
+      "2022-12-15": 32
     }
   },
   {
@@ -747,15 +738,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "wave-pay-app-mini-app-api",
     "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "84.33%",
+    "uptime": "98.27%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "98.43%",
-    "uptimeYear": "98.26%",
+    "uptimeYear": "98.27%",
     "time": 416,
-    "timeDay": 208,
-    "timeWeek": 254,
-    "timeMonth": 265,
+    "timeDay": 602,
+    "timeWeek": 295,
+    "timeMonth": 264,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2023-12-12": 226,
