@@ -11,9 +11,9 @@
     "uptimeMonth": "99.36%",
     "uptimeYear": "98.59%",
     "time": 826,
-    "timeDay": 852,
-    "timeWeek": 840,
-    "timeMonth": 1165,
+    "timeDay": 1021,
+    "timeWeek": 863,
+    "timeMonth": 1171,
     "timeYear": 893,
     "dailyMinutesDown": {
       "2024-02-26": 62,
@@ -67,8 +67,7 @@
       "2023-04-03": 166,
       "2023-03-20": 35,
       "2023-03-17": 125,
-      "2023-03-16": 248,
-      "2023-03-15": 115
+      "2023-03-16": 248
     }
   },
   {
@@ -77,16 +76,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "merchant-app-core-config-api",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.36%",
     "time": 896,
-    "timeDay": 1127,
-    "timeWeek": 989,
-    "timeMonth": 1419,
-    "timeYear": 978,
+    "timeDay": 1104,
+    "timeWeek": 985,
+    "timeMonth": 1426,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2024-02-26": 78,
       "2024-02-22": 80,
@@ -142,8 +141,7 @@
       "2023-03-21": 211,
       "2023-03-20": 193,
       "2023-03-17": 125,
-      "2023-03-16": 248,
-      "2023-03-15": 115
+      "2023-03-16": 248
     }
   },
   {
@@ -152,15 +150,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "merchant-app-api-version-api",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.37%",
     "time": 300,
-    "timeDay": 467,
-    "timeWeek": 366,
-    "timeMonth": 408,
+    "timeDay": 340,
+    "timeWeek": 369,
+    "timeMonth": 410,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2024-02-26": 78,
@@ -217,8 +215,7 @@
       "2023-03-21": 211,
       "2023-03-20": 193,
       "2023-03-17": 125,
-      "2023-03-16": 248,
-      "2023-03-15": 115
+      "2023-03-16": 248
     }
   },
   {
@@ -233,9 +230,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.36%",
     "time": 328,
-    "timeDay": 325,
-    "timeWeek": 603,
-    "timeMonth": 355,
+    "timeDay": 338,
+    "timeWeek": 525,
+    "timeMonth": 356,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2024-02-26": 78,
@@ -292,8 +289,7 @@
       "2023-03-21": 211,
       "2023-03-20": 192,
       "2023-03-17": 125,
-      "2023-03-16": 248,
-      "2023-03-15": 115
+      "2023-03-16": 248
     }
   },
   {
@@ -308,9 +304,9 @@
     "uptimeMonth": "99.28%",
     "uptimeYear": "98.36%",
     "time": 464,
-    "timeDay": 624,
-    "timeWeek": 533,
-    "timeMonth": 490,
+    "timeDay": 605,
+    "timeWeek": 536,
+    "timeMonth": 492,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2024-02-26": 96,
@@ -367,8 +363,7 @@
       "2023-03-21": 211,
       "2023-03-20": 192,
       "2023-03-17": 125,
-      "2023-03-16": 248,
-      "2023-03-15": 115
+      "2023-03-16": 248
     }
   },
   {
@@ -377,15 +372,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "merchant-app-stroy-api",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "98.36%",
     "time": 306,
-    "timeDay": 361,
-    "timeWeek": 365,
-    "timeMonth": 295,
+    "timeDay": 359,
+    "timeWeek": 369,
+    "timeMonth": 296,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2024-02-26": 103,
@@ -442,8 +437,7 @@
       "2023-03-21": 212,
       "2023-03-20": 192,
       "2023-03-17": 125,
-      "2023-03-16": 248,
-      "2023-03-15": 115
+      "2023-03-16": 248
     }
   },
   {
@@ -458,7 +452,7 @@
     "uptimeMonth": "99.27%",
     "uptimeYear": "98.35%",
     "time": 272,
-    "timeDay": 321,
+    "timeDay": 322,
     "timeWeek": 289,
     "timeMonth": 259,
     "timeYear": 287,
@@ -517,8 +511,7 @@
       "2023-03-21": 212,
       "2023-03-20": 192,
       "2023-03-17": 125,
-      "2023-03-16": 249,
-      "2023-03-15": 115
+      "2023-03-16": 249
     }
   },
   {
@@ -527,14 +520,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "channel-app-region-api",
     "status": "up",
-    "uptime": "98.23%",
+    "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.36%",
     "time": 350,
-    "timeDay": 371,
-    "timeWeek": 484,
+    "timeDay": 388,
+    "timeWeek": 474,
     "timeMonth": 874,
     "timeYear": 384,
     "dailyMinutesDown": {
@@ -592,8 +585,7 @@
       "2023-03-21": 212,
       "2023-03-20": 192,
       "2023-03-17": 125,
-      "2023-03-16": 249,
-      "2023-03-15": 115
+      "2023-03-16": 249
     }
   },
   {
@@ -602,15 +594,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "channel-app-version-api",
     "status": "up",
-    "uptime": "98.23%",
+    "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.37%",
     "time": 285,
-    "timeDay": 311,
-    "timeWeek": 302,
-    "timeMonth": 387,
+    "timeDay": 332,
+    "timeWeek": 297,
+    "timeMonth": 388,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2024-02-26": 78,
@@ -667,8 +659,7 @@
       "2023-03-21": 212,
       "2023-03-20": 192,
       "2023-03-17": 125,
-      "2023-03-16": 249,
-      "2023-03-15": 115
+      "2023-03-16": 249
     }
   },
   {
@@ -677,15 +668,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gateway.wavemoney.io.ico",
     "slug": "wave-pay-app-mini-app-api",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "98.46%",
     "time": 387,
-    "timeDay": 353,
-    "timeWeek": 317,
-    "timeMonth": 334,
+    "timeDay": 341,
+    "timeWeek": 313,
+    "timeMonth": 335,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2024-02-26": 148,
