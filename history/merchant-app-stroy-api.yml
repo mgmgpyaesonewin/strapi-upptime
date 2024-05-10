@@ -1,7 +1,7 @@
 url: https://gateway.wavemoney.io/v2/merchant-api/merchant-tutorial-stories/1
-status: down
-code: 503
-responseTime: 294
-lastUpdated: 2024-05-10T07:58:44.666Z
+status: up
+code: 200
+responseTime: 19243
+lastUpdated: 2024-05-10T12:35:05.480Z
 startTime: 2022-09-06T10:34:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
