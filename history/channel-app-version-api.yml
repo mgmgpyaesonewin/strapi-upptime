@@ -1,7 +1,7 @@
 url: https://gateway.wavemoney.io/v2/wc-api/url-version/entity/wc
-status: up
-code: 200
-responseTime: 291
-lastUpdated: 2024-05-15T23:08:41.286Z
+status: down
+code: 502
+responseTime: 304
+lastUpdated: 2024-05-16T12:34:39.476Z
 startTime: 2022-11-15T07:09:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
