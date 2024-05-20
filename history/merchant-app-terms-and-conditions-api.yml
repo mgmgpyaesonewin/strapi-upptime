@@ -1,7 +1,7 @@
 url: https://gateway.wavemoney.io/v2/merchant-api/merchant-term-and-condition-content/get-latest
-status: down
-code: 502
-responseTime: 277
-lastUpdated: 2024-05-20T09:24:14.807Z
+status: up
+code: 200
+responseTime: 522
+lastUpdated: 2024-05-20T09:37:16.415Z
 startTime: 2022-09-06T10:34:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
