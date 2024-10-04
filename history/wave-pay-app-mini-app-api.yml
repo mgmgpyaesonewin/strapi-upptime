@@ -1,7 +1,7 @@
 url: https://gateway.wavemoney.io/v2/wp-api/wp-mini-app-categories
-status: down
-code: 502
-responseTime: 277
-lastUpdated: 2024-10-03T23:09:28.077Z
+status: up
+code: 200
+responseTime: 355
+lastUpdated: 2024-10-04T17:08:46.057Z
 startTime: 2023-03-28T07:12:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
