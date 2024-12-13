@@ -6,15 +6,15 @@
     "slug": "strapi-home-page",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "85.51%",
+    "uptimeDay": "97.70%",
     "uptimeWeek": "97.93%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.89%",
     "time": 1109,
-    "timeDay": 764,
-    "timeWeek": 915,
-    "timeMonth": 1006,
-    "timeYear": 1153,
+    "timeDay": 907,
+    "timeWeek": 927,
+    "timeMonth": 1017,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2024-12-12": 33,
       "2024-12-11": 176,
@@ -53,8 +53,7 @@
       "2024-01-13": 198,
       "2023-12-29": 26,
       "2023-12-20": 99,
-      "2023-12-19": 76,
-      "2023-12-14": 351
+      "2023-12-19": 76
     }
   },
   {
@@ -64,15 +63,15 @@
     "slug": "merchant-app-core-config-api",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "83.86%",
+    "uptimeDay": "96.05%",
     "uptimeWeek": "97.69%",
     "uptimeMonth": "99.09%",
-    "uptimeYear": "97.10%",
+    "uptimeYear": "97.14%",
     "time": 1156,
-    "timeDay": 2832,
-    "timeWeek": 2243,
-    "timeMonth": 1721,
-    "timeYear": 1218,
+    "timeDay": 3157,
+    "timeWeek": 2267,
+    "timeMonth": 1728,
+    "timeYear": 1220,
     "dailyMinutesDown": {
       "2024-12-12": 56,
       "2024-12-11": 176,
@@ -134,8 +133,7 @@
       "2024-01-13": 269,
       "2023-12-29": 34,
       "2023-12-20": 99,
-      "2023-12-19": 84,
-      "2023-12-14": 351
+      "2023-12-19": 84
     }
   },
   {
@@ -145,15 +143,15 @@
     "slug": "merchant-app-api-version-api",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "85.48%",
+    "uptimeDay": "97.67%",
     "uptimeWeek": "97.93%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "97.14%",
-    "time": 503,
-    "timeDay": 4520,
-    "timeWeek": 3027,
-    "timeMonth": 1611,
-    "timeYear": 544,
+    "uptimeYear": "97.18%",
+    "time": 513,
+    "timeDay": 7689,
+    "timeWeek": 3030,
+    "timeMonth": 1613,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2024-12-12": 34,
       "2024-12-11": 176,
@@ -217,8 +215,7 @@
       "2024-01-13": 260,
       "2023-12-29": 34,
       "2023-12-20": 99,
-      "2023-12-19": 84,
-      "2023-12-14": 351
+      "2023-12-19": 84
     }
   },
   {
@@ -228,17 +225,17 @@
     "slug": "merchant-app-home-page-api",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "84.23%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "97.15%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "97.19%",
     "time": 422,
-    "timeDay": 540,
-    "timeWeek": 448,
-    "timeMonth": 345,
-    "timeYear": 374,
+    "timeDay": 1022,
+    "timeWeek": 451,
+    "timeMonth": 346,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2024-12-12": 51,
+      "2024-12-12": 42,
       "2024-12-11": 176,
       "2024-12-03": 33,
       "2024-11-27": 55,
@@ -297,8 +294,7 @@
       "2024-01-13": 269,
       "2023-12-29": 34,
       "2023-12-20": 99,
-      "2023-12-19": 84,
-      "2023-12-14": 351
+      "2023-12-19": 84
     }
   },
   {
@@ -308,17 +304,17 @@
     "slug": "merchant-app-terms-and-conditions-api",
     "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "84.24%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "97.17%",
-    "time": 562,
-    "timeDay": 2662,
-    "timeWeek": 1856,
-    "timeMonth": 1007,
-    "timeYear": 577,
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "97.21%",
+    "time": 563,
+    "timeDay": 6339,
+    "timeWeek": 1912,
+    "timeMonth": 1028,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-12-12": 52,
+      "2024-12-12": 43,
       "2024-12-11": 176,
       "2024-12-03": 33,
       "2024-11-27": 64,
@@ -378,8 +374,7 @@
       "2024-01-13": 269,
       "2023-12-29": 34,
       "2023-12-20": 99,
-      "2023-12-19": 76,
-      "2023-12-14": 351
+      "2023-12-19": 76
     }
   },
   {
@@ -389,15 +384,15 @@
     "slug": "merchant-app-stroy-api",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "83.83%",
+    "uptimeDay": "96.02%",
     "uptimeWeek": "97.69%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "97.19%",
+    "uptimeYear": "97.24%",
     "time": 518,
-    "timeDay": 1632,
-    "timeWeek": 1102,
-    "timeMonth": 610,
-    "timeYear": 528,
+    "timeDay": 4473,
+    "timeWeek": 1105,
+    "timeMonth": 612,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2024-12-12": 57,
       "2024-12-11": 176,
@@ -459,8 +454,7 @@
       "2024-01-13": 269,
       "2023-12-29": 34,
       "2023-12-20": 99,
-      "2023-12-19": 84,
-      "2023-12-14": 351
+      "2023-12-19": 84
     }
   },
   {
@@ -470,14 +464,14 @@
     "slug": "channel-app-nrc-api",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "84.71%",
+    "uptimeDay": "96.90%",
     "uptimeWeek": "97.82%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "97.16%",
+    "uptimeYear": "97.20%",
     "time": 349,
-    "timeDay": 2562,
-    "timeWeek": 1653,
-    "timeMonth": 775,
+    "timeDay": 7032,
+    "timeWeek": 1655,
+    "timeMonth": 776,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2024-12-12": 45,
@@ -544,8 +538,7 @@
       "2024-01-13": 269,
       "2023-12-29": 34,
       "2023-12-20": 99,
-      "2023-12-19": 76,
-      "2023-12-14": 351
+      "2023-12-19": 76
     }
   },
   {
@@ -555,15 +548,15 @@
     "slug": "channel-app-region-api",
     "status": "up",
     "uptime": "98.29%",
-    "uptimeDay": "83.29%",
+    "uptimeDay": "95.49%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "97.13%",
-    "time": 473,
-    "timeDay": 242,
-    "timeWeek": 277,
-    "timeMonth": 734,
-    "timeYear": 473,
+    "uptimeYear": "97.17%",
+    "time": 474,
+    "timeDay": 327,
+    "timeWeek": 298,
+    "timeMonth": 741,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2024-12-12": 65,
       "2024-12-11": 176,
@@ -628,8 +621,7 @@
       "2024-01-13": 261,
       "2023-12-29": 34,
       "2023-12-20": 99,
-      "2023-12-19": 84,
-      "2023-12-14": 351
+      "2023-12-19": 84
     }
   },
   {
@@ -639,15 +631,15 @@
     "slug": "channel-app-version-api",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "85.25%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "97.89%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "97.17%",
+    "uptimeYear": "97.22%",
     "time": 312,
-    "timeDay": 497,
-    "timeWeek": 410,
-    "timeMonth": 383,
-    "timeYear": 317,
+    "timeDay": 1086,
+    "timeWeek": 413,
+    "timeMonth": 384,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2024-12-12": 37,
       "2024-12-11": 176,
@@ -711,8 +703,7 @@
       "2024-01-13": 261,
       "2023-12-29": 34,
       "2023-12-20": 99,
-      "2023-12-19": 76,
-      "2023-12-14": 351
+      "2023-12-19": 76
     }
   },
   {
@@ -722,15 +713,15 @@
     "slug": "wave-pay-app-mini-app-api",
     "status": "up",
     "uptime": "97.85%",
-    "uptimeDay": "85.24%",
+    "uptimeDay": "97.44%",
     "uptimeWeek": "97.89%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "97.13%",
+    "uptimeYear": "97.17%",
     "time": 450,
-    "timeDay": 2012,
-    "timeWeek": 1369,
-    "timeMonth": 1023,
-    "timeYear": 397,
+    "timeDay": 4691,
+    "timeWeek": 1371,
+    "timeMonth": 1025,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2024-12-12": 37,
       "2024-12-11": 176,
@@ -790,8 +781,7 @@
       "2024-01-13": 269,
       "2023-12-29": 34,
       "2023-12-20": 99,
-      "2023-12-19": 84,
-      "2023-12-14": 351
+      "2023-12-19": 84
     }
   }
 ]
