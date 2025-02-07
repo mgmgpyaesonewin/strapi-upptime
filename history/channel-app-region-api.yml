@@ -1,7 +1,7 @@
 url: https://gateway.wavemoney.io/v2/wc-api/config-region/wc
-status: down
-code: 503
-responseTime: 280
-lastUpdated: 2025-02-07T15:31:30.860Z
+status: up
+code: 200
+responseTime: 351
+lastUpdated: 2025-02-07T15:40:16.212Z
 startTime: 2022-11-15T07:09:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
