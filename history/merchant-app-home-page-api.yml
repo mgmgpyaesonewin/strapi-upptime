@@ -1,7 +1,7 @@
 url: https://gateway.wavemoney.io/v2/merchant-api/merchant-home
-status: down
-code: 404
-responseTime: 253
-lastUpdated: 2025-02-14T15:33:55.806Z
+status: up
+code: 200
+responseTime: 372
+lastUpdated: 2025-02-14T15:41:58.171Z
 startTime: 2022-09-06T10:34:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
