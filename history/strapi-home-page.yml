@@ -1,7 +1,7 @@
 url: https://cms.wavemoney.io
-status: up
-code: 200
-responseTime: 1060
-lastUpdated: 2025-02-27T23:01:33.033Z
+status: down
+code: 504
+responseTime: 11174
+lastUpdated: 2025-02-28T15:31:05.985Z
 startTime: 2022-09-06T09:51:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
